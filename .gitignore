@@ -1,0 +1,8 @@
+**/*~
+node_modules
+.sass-cache
+*.css.map
+.DS_Store
+build
+npm-debug.log
+.idea
