@@ -1,1 +1,1 @@
-module.exports = bubblesView = require("./src/bubbles.js");
+module.exports = targetAssociationsBubbles = require("./src/bubbles.js");
